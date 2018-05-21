@@ -1,19 +1,9 @@
 package com.gmail.gak.artem;
 
-import tmpproject.sorter.PackageTools;
 import tmpproject.sorter.Sorter;
-
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.net.URISyntaxException;
-import java.net.URL;
 import java.util.ArrayList;
 import java.util.Comparator;
-import java.util.Enumeration;
 import java.util.List;
-import java.util.jar.JarEntry;
-import java.util.jar.JarInputStream;
 
 public class Main {
 
